@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @IYIOLASTRINGS
 - 👀 I’m interested in Programing
-- 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate on writing Programs and great team works
 - 📫 How to reach me iyi.gossipears.com
 
