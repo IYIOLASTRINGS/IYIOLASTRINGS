@@ -1,9 +1,12 @@
 - 👋 Hi, I’m @IYIOLASTRINGS
-- 👀 I’m interested in Programing
-- 💞️ I’m looking to collaborate on writing Programs and great team works
-- 📫 How to reach me iyi.gossipears.com
+Software Developer | Electronics Engineer | Backend Specialist
 
-<!---
-IYIOLASTRINGS/IYIOLASTRINGS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a graduate software and electronics engineer with a passion for combining hardware and software to deliver innovative solutions.
+
+I specialize in:
+
+Building robust backend systems that power seamless user experiences.
+Designing and integrating electronic systems with cutting-edge technology.
+Creating intuitive front-end interfaces and exploring mobile development.
+Solving intricate challenges by applying engineering principles and leveraging diverse tools.
+With a strong foundation in both software development and electronics engineering, I thrive on projects that merge the two disciplines to create impactful results. Let's innovate together!
